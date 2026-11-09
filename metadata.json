@@ -1,0 +1,6 @@
+{
+  "name": "BatiProm Algérie - ERP Promotion Immobilière",
+  "description": "Système de gestion et gouvernance multi-chantiers pour promoteurs immobiliers en Algérie : architecture relationnelle, cloisonnement par chantier, RBAC, audit et GED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
